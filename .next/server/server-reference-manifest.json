@@ -1,0 +1,46 @@
+{
+  "node": {
+    "29773c193d01e90dceb57794a0f469181bdaed25": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Cperson-search%5C%5Capp%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22updateUser%22%2C%22deleteUser%22%2C%22addUser%22%2C%22searchUsers%22%2C%22getUserById%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "53f1033bf6cb6fc2a91c121021f1435f72000e82": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Cperson-search%5C%5Capp%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22updateUser%22%2C%22deleteUser%22%2C%22addUser%22%2C%22searchUsers%22%2C%22getUserById%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "99950b8a3aad9f9545f949dd2b3c01e81ae11170": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Cperson-search%5C%5Capp%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22updateUser%22%2C%22deleteUser%22%2C%22addUser%22%2C%22searchUsers%22%2C%22getUserById%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "b5c50557f137a215fed4b5583581297cc599cd27": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Cperson-search%5C%5Capp%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22updateUser%22%2C%22deleteUser%22%2C%22addUser%22%2C%22searchUsers%22%2C%22getUserById%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "c0bcfe8f18f1b4b6c073c01adc080947f680f267": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5Cperson-search%5C%5Capp%5C%5Cactions%5C%5Cactions.ts%22%2C%5B%22updateUser%22%2C%22deleteUser%22%2C%22addUser%22%2C%22searchUsers%22%2C%22getUserById%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "4EyhI/Q7cQXNFHojboMrvN8WjZ6tMxOaZbabOh47EaI="
+}
